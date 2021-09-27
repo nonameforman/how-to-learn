@@ -177,11 +177,10 @@
 
 .feynman__title {
   position: relative;
-  margin: 0;
   width: 648px;
   font-size: 120px;
   font-weight: bold;
-  line-height: 1,15px; 
+  line-height: 1,15px;
   text-align: center;
   z-index: 2;
   margin: 0 auto;
@@ -189,10 +188,9 @@
 
 .feynmann__subtitle {
   position: relative;
-  margin: 0;
   font-size: 36px;
   font-weight: normal;
-  line-height: 51px; 
+  line-height: 51px;
   text-align: center;
   z-index: 2;
   margin: 70px auto 0;
@@ -202,7 +200,7 @@
   margin: 0;
   font-size: 36px;
   font-weight: normal;
-  line-height: 51px; 
+  line-height: 51px;
   color: #2f80ed;
   text-decoration: none;
   z-index: 2;
@@ -219,7 +217,7 @@
   bottom: 0;
 }
 
-/*KAUFMAN = KAUFMAN селекторы/модификаторы + DIGITS селекторы (см. выше) */ 
+/*KAUFMAN = KAUFMAN селекторы/модификаторы + DIGITS селекторы (см. выше) */
 
 .kaufman {
   display: flex;
@@ -294,7 +292,7 @@
   color: white;
   font-size: 18px;
   font-weight: normal;
-  line-height: 25px; 
+  line-height: 25px;
   margin: 18px 0;
 }
 
@@ -307,7 +305,7 @@
   color: white;
   font-size: 18px;
   font-weight: bold;
-  line-height: 30px; 
+  line-height: 30px;
   margin: 0;
 }
 
@@ -322,7 +320,7 @@
   color: white;
   font-size: 18px;
   font-weight: normal;
-  line-height: 30px; 
+  line-height: 30px;
   margin: 0;
   text-decoration: none;
 }
