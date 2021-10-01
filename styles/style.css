@@ -92,7 +92,7 @@
   width: 175px;
   font-size: 18px;
   font-weight: normal;
-  line-height: 1,2px;
+  line-height: 1,2;
   color:#2f80ed;
   margin: 0;
 }
@@ -131,7 +131,7 @@
   width: 60%;
   font-size: 60px;
   font-weight: bold;
-  line-height: 1,15px;
+  line-height: 1,15;
   text-align: center;
   margin: 0;
 }
@@ -165,14 +165,14 @@
   margin: 0;
   font-size: 24px;
   font-weight: bold;
-  line-height: 1,15px;
+  line-height: 1,15;
 }
 
 .table__text {
   margin: 20px 0 0 0;
   font-size: 18px;
   font-weight: normal;
-  line-height: 1,2px;
+  line-height: 1,2;
 }
 
 /*FEYNMANN*/
@@ -190,7 +190,7 @@
   width: 648px;
   font-size: 120px;
   font-weight: bold;
-  line-height: 1,15px;
+  line-height: 1,15;
   text-align: center;
   z-index: 2;
   margin: 0 auto;
