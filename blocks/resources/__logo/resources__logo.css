@@ -1,0 +1,13 @@
+.resources__logo {
+    width: 270px;
+    height: 38px;
+}
+
+.resources__logo:hover {
+    opacity: 0.5;
+    -webkit-transition: opacity 1s linear;
+    -moz-transition: opacity 1s linear;
+    -o-transition: opacity 1s linear;
+    -ms-transition: opacity 1s linear;
+    transition: opacity 1s linear;
+}
