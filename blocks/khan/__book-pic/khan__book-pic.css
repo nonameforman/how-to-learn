@@ -4,6 +4,6 @@
     margin-right: 48px;
     object-fit: cover;
     -o-object-fit: cover;
-    object-position: bottom;
-    -o-object-position: bottom;
+    object-position: top;
+    -o-object-position: top;
 }
